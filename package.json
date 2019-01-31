@@ -1,0 +1,15 @@
+{
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^24.0.0"
+  },
+  "name": "tests-sandrine",
+  "version": "1.0.0",
+  "main": "calculatrice.js",
+  "dependencies": {},
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
